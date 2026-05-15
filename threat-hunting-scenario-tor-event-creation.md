@@ -95,4 +95,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `May  14, 2026`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `May  14, 2026`  | `Yetunde Odunlami`   
